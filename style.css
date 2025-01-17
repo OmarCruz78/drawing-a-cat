@@ -6,6 +6,18 @@ body {
   background-color: #c9d2fc;
 }
 
+
+h1{
+
+  height:2em;
+}
+
+h2{
+
+  height:1.5em;
+}
+
+
 .cat-head {
   position: absolute;
   right: 0;
